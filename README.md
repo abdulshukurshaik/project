@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>The Beagle Blog</title>
+    <title>Document</title>
   </head>
   <body>
     <u
@@ -19,8 +19,10 @@
       world. The <i><b>beagle</b></i> is intelligent and is a popular pet due to
       its size, good temper, and a lack of inherited health problems
     </p>
-    <a href="https://en.wikipedia.org/wiki/Beagle">Read More</a> target = "_blank"
-  
+    <a href="https://en.wikipedia.org/wiki/Beagle " target="_blank"
+      >Read More
+    </a>
+
     <u><h2>Images</h2></u>
 
     <img
@@ -31,6 +33,7 @@
     <div>
       <a
         href="https://www.google.com/search?q=beagle&rlz=1C5CHFA_enUS944US945&sxsrf=ALiCzsYi_xLzuX5-mgRt-U2UMiiEwhaCTA:1672839794160&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiat8ntha78AhVnDbcAHX7UCYYQ_AUoAXoECAEQAw&biw=1629&bih=894&dpr=2.2"
+        target="_blank"
         >More Images
       </a>
     </div>
