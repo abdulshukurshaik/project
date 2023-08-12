@@ -3,11 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>The Beagle Blog</title>
   </head>
   <body>
     <u
-      ><b><h1>The Beagle Blog</h1></b></u
+      ><strong><h1>The Beagle Blog</h1></strong></u
     >
     <p>
       The <i><b>Beagle</b></i> is a breed of small scent hound, similar in
@@ -19,8 +19,8 @@
       world. The <i><b>beagle</b></i> is intelligent and is a popular pet due to
       its size, good temper, and a lack of inherited health problems
     </p>
-    <a href="https://en.wikipedia.org/wiki/Beagle">Read More</a>
-
+    <a href="https://en.wikipedia.org/wiki/Beagle">Read More</a> target = "_blank"
+  
     <u><h2>Images</h2></u>
 
     <img
